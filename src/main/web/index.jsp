@@ -11,6 +11,6 @@
     <title>Cloud app</title>
 </head>
 <body>
-       PKlochkov cloud app!  ${requestScope.msg}
+       PKlochkov cloud app!
 </body>
 </html>
