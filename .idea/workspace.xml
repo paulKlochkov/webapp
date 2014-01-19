@@ -10,7 +10,7 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/pom.xml" changelist="25fbdf4b-9691-45f9-a027-5d60aaeb15e7" time="1390148216729" ignored="false" />
     <file path="/web.xml" changelist="25fbdf4b-9691-45f9-a027-5d60aaeb15e7" time="1390148285036" ignored="false" />
-    <file path="/index.jsp" changelist="25fbdf4b-9691-45f9-a027-5d60aaeb15e7" time="1390162186346" ignored="false" />
+    <file path="/index.jsp" changelist="25fbdf4b-9691-45f9-a027-5d60aaeb15e7" time="1390162322229" ignored="false" />
     <file path="/DispatcherServlet.java" changelist="25fbdf4b-9691-45f9-a027-5d60aaeb15e7" time="1390162157848" ignored="false" />
     <file path="/Dummy.txt" changelist="25fbdf4b-9691-45f9-a027-5d60aaeb15e7" time="1390158622684" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -82,19 +82,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DispatcherServlet.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="DispatcherServlet.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/by/pklochkov/cloudapp/DispatcherServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="47" selection-start="758" selection-end="758" vertical-scroll-proportion="0.86440676">
+            <state line="18" column="47" selection-start="758" selection-end="758" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.jsp" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.jsp" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/web/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="29" selection-start="325" selection-end="325" vertical-scroll-proportion="-8.5">
+            <state line="13" column="47" selection-start="343" selection-end="343" vertical-scroll-proportion="0.6480938">
               <folding />
             </state>
           </provider>
@@ -649,16 +649,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/web/index.jsp">
+    <entry file="file://$PROJECT_DIR$/src/main/java/by/pklochkov/cloudapp/DispatcherServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="29" selection-start="325" selection-end="325" vertical-scroll-proportion="-8.5">
+        <state line="18" column="47" selection-start="758" selection-end="758" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/by/pklochkov/cloudapp/DispatcherServlet.java">
+    <entry file="file://$PROJECT_DIR$/src/main/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="47" selection-start="758" selection-end="758" vertical-scroll-proportion="0.86440676">
+        <state line="13" column="47" selection-start="343" selection-end="343" vertical-scroll-proportion="0.6480938">
           <folding />
         </state>
       </provider>
